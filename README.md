@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/54318487/128631380-55c8a60f-99d1-4886-8870-d818fa4a4156.png)
 # 👋Hi! 
 ### My name is Sami Ullah Saleem. I have created this awesome character counter. 
-## [Live Preview]("www.bit.ly/3ywmCgA")
+## Live Preview  
+#### www.bit.ly/3ywmCgA
 
 ## How can you adjust styling?
 * You can add font size in the font size box.
